@@ -3,12 +3,7 @@
 MemeVerse is a multi-page, highly interactive meme platform where users can explore, upload, and engage with memes. The project is designed to test and enhance frontend development skills, including UI/UX design, animations, state management, performance optimization, API handling, and advanced React techniques.
 
 ## 🚀 Live Demo
-
-[Deploy on Vercel or Netlify and insert the link here]
-
-## 📸 Screenshots
-
-(Add relevant screenshots showcasing the UI and functionalities)
+https://memeverse-web.vercel.app/
 
 ## 📌 Features & Functionalities
 
